@@ -1,0 +1,45 @@
+/* Product CSS */
+.product-hd{
+    color:black !important;
+    text-decoration: none !important;
+}
+
+.product-btn{
+    background-color: #B84DBA !important;
+    border-color: #B84DBA !important;
+    border-radius: 0% !important;
+}
+
+/* Header CSS */
+.header-txt{
+    color: black !important;
+}
+
+#username{
+    color:black !important;
+    margin-right: 15px;
+}
+#adminmenu{
+    color:black !important;
+    margin-right: 15px;
+}
+
+.custom-nav{
+    font-weight: 600 !important;
+    color:black !important;
+}
+
+/* Home Screen CSS */
+.cover-photo-heading{
+    text-align: center;
+    justify-items: center !important;
+    justify-content: center !important;
+    padding-top: 280px !important;
+    font-size: 45px;
+    font-weight: 900;
+}
+.cover-photo-paragraph{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
